@@ -129,7 +129,7 @@ Repo:
 GitHub repository: alx-low_level_programming
 Directory: 0x09-static_libraries
 File: libmy.a, main.h
-     
+    
 1. Without libraries what have we? We have no past and no future
 mandatory
 Score: 0.0% (Checks completed: 0.0%)
